@@ -1,9 +1,3 @@
-"""
-JinYoung Park
-CS 5001, Spring 2023
-Final Project(2048 Game)
-"""
-
 # 2048 game python code
 # Import module
 import turtle
